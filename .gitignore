@@ -1,0 +1,30 @@
+# Python environment
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database & Local Files
+*.log
+*.bak
+*.tmp
+*.csv
+*.xlsx
+
+# SQL Server local artifacts (if any)
+*.mdf
+*.ldf
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
